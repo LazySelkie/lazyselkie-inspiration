@@ -1,0 +1,18 @@
+{
+    "SELKIE-INSPIRATION": {
+        "settings": {
+            "debug": {
+                "Name": "Log debug info in console?",
+                "Hint": ""
+            },
+            "max-selkie-inspiration": {
+                "Name": "Maximum number of Inspirations",
+                "Hint": ""
+            },
+            "inspiration-color": {
+                "Name": "Color of number displaying Inspiration's amount",
+                "Hint": "To view change, close and reopen character sheet"
+            }
+        }
+    }
+}

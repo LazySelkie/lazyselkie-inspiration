@@ -1,0 +1,35 @@
+{
+    "name": "lazyselkie-inspiration",
+    "title": "LazySelkie's Inspiration",
+    "description": "A simple module which makes possible to have more than 1 inspiration (DnD 5e).",
+    "authors": [
+      {
+        "name": "LazySelkie"
+      }
+    ],
+    "version": "1",
+    "compatibility": {
+        "minimum": "11",
+		"verified": "11.315",
+		"maximum": "11.999"
+    },
+    "esmodules": [
+      "scripts/lazyselkie-inspiration.js"
+    ],
+    "scripts": [],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "languages/en.json"
+      },
+      {
+        "lang": "ru",
+        "name": "Russian",
+        "path": "languages/ru.json"
+      }
+    ],
+    "styles": [
+      "styles/lazyselkie-inspiration.css"
+    ]
+  }
